@@ -157,3 +157,7 @@ section > header, section > footer
 {
 	width: 200px;
 }
+
+.ul-no-style { list-style: none; padding: 0; margin: 0; float: left; width: 50% }
+.ul-no-style li {padding-left: 0px; margin-left: 0px;}
+.lan-test {font-weight: bold;}
